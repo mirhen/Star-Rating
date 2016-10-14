@@ -14,6 +14,7 @@
 		E6EFB0DC1DAEAA91005DC2CF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E6EFB0DA1DAEAA91005DC2CF /* LaunchScreen.storyboard */; };
 		E6EFB0E71DAEAA91005DC2CF /* Star_RatingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6EFB0E61DAEAA91005DC2CF /* Star_RatingTests.swift */; };
 		E6EFB0F21DAEAA91005DC2CF /* Star_RatingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6EFB0F11DAEAA91005DC2CF /* Star_RatingUITests.swift */; };
+		E6EFB1001DAEB451005DC2CF /* StarRatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6EFB0FF1DAEB451005DC2CF /* StarRatingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		E6EFB0ED1DAEAA91005DC2CF /* Star_RatingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Star_RatingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6EFB0F11DAEAA91005DC2CF /* Star_RatingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Star_RatingUITests.swift; sourceTree = "<group>"; };
 		E6EFB0F31DAEAA91005DC2CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E6EFB0FF1DAEB451005DC2CF /* StarRatingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StarRatingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				E6EFB0D81DAEAA91005DC2CF /* Assets.xcassets */,
 				E6EFB0DA1DAEAA91005DC2CF /* LaunchScreen.storyboard */,
 				E6EFB0DD1DAEAA91005DC2CF /* Info.plist */,
+				E6EFB0FF1DAEB451005DC2CF /* StarRatingView.swift */,
 			);
 			path = Star_Rating;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			files = (
 				E6EFB0D41DAEAA91005DC2CF /* ViewController.swift in Sources */,
 				E6EFB0D21DAEAA91005DC2CF /* AppDelegate.swift in Sources */,
+				E6EFB1001DAEB451005DC2CF /* StarRatingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
